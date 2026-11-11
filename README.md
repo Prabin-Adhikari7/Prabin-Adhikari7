@@ -53,9 +53,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,firebase,vercel,git,github" alt="Backend and cloud skills"/>
 </p>
 
-**AI engineering:** LLM integration · RAG pipelines · Conversational assistants · AI security assessment
-**Systems & security:** VMware · Active Directory · Fortinet firewalls · SQL security · Data risk assessment
-**Workflow:** Agile · SDLC · Requirement gathering · Technical documentation · Git CI/CD
+- **AI engineering:** LLM integration · RAG pipelines · Conversational assistants · AI security assessment
+- **Systems & security:** VMware · Active Directory · Fortinet firewalls · SQL security · Data risk assessment
+- **Workflow:** Agile · SDLC · Requirement gathering · Technical documentation · Git CI/CD
 
 ---
 
@@ -66,12 +66,5 @@
 - 👨‍🏫 24-hour hackathons and teaching coding in the classroom — read more on my [blog](https://www.prabinadhikari7.com.np/)
 
 ---
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prabin-Adhikari7&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabin-Adhikari7&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
-</p>
 
 <p align="center"><i>"Only way is up!"</i></p>
